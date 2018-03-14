@@ -1455,3 +1455,12 @@ p.move-matcher-is-part {
 .partner-cta-bttn {
 	margin-top: 80px;
 }
+.eb_row {
+	height: 572px;
+	width: 80%;
+	margin: auto;
+}
+.cta-avatar {
+	text-align: center;
+}
+
